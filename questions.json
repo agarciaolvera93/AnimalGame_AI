@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "question": "Can it be domesticated?", 
+            "id": 0
+        }, 
+        {
+            "question": "Does it walk?", 
+            "id": 1
+        }, 
+        {
+            "question": "Does it bark?", 
+            "id": 2
+        }, 
+        {
+            "question": "Does it have legs?", 
+            "id": 3
+        }, 
+        {
+            "question": "Does it have wings?", 
+            "id": 4
+        }, 
+        {
+            "question": "Does it live in water?", 
+            "id": 5
+        }, 
+        {
+            "question": "Does it live in trees?", 
+            "id": 6
+        }, 
+        {
+            "question": "Is it a bug?", 
+            "id": 7
+        }, 
+        {
+            "question": "Is it a type of bird?", 
+            "id": 8
+        }, 
+        {
+            "question": "Is it a mammal?", 
+            "id": 9
+        }, 
+        {
+            "question": "Does it have 4 legs?", 
+            "id": 10
+        }, 
+        {
+            "question": "Does it have feathers?", 
+            "id": 11
+        }, 
+        {
+            "question": "Does it have fins?", 
+            "id": 12
+        }, 
+        {
+            "question": "Does it have hair or fur?", 
+            "id": 13
+        }, 
+        {
+            "question": "Does it fly?", 
+            "id": 14
+        }, 
+        {
+            "question": "Does it have stripes or spots?", 
+            "id": 15
+        }, 
+        {
+            "question": "Does it roar?", 
+            "id": 16
+        }, 
+        {
+            "question": "Would you find it on a farm?", 
+            "id": 17
+        }, 
+        {
+            "question": "Would you find it in a zoo?", 
+            "id": 18
+        }, 
+        {
+            "question": "Does it have a tail?", 
+            "id": 19
+        }, 
+        {
+            "question": "Is it a predator?", 
+            "id": 20
+        }, 
+        {
+            "question": "Can it jump?", 
+            "id": 21
+        }, 
+        {
+            "question": "Can it swim?", 
+            "id": 22
+        }, 
+        {
+            "question": "Is it an herbivore?", 
+            "id": 23
+        }, 
+        {
+            "question": "Does it eat fish?", 
+            "id": 24
+        }, 
+        {
+            "question": "Is it bigger than a sofa?", 
+            "id": 25
+        }, 
+        {
+            "question": "Does it have a shell?", 
+            "id": 26
+        }, 
+        {
+            "question": "Can it carry people?", 
+            "id": 27
+        }, 
+        {
+            "question": "Is it normally eaten?", 
+            "id": 28
+        }, 
+        {
+            "question": "Is it a rodent?", 
+            "id": 29
+        }, 
+        {
+            "question": "Does it stand on 2 legs?", 
+            "id": 30
+        }, 
+        {
+            "question": "Does it have teeth?", 
+            "id": 31
+        }, 
+        {
+            "question": "Does it lay eggs?", 
+            "id": 32
+        }, 
+        {
+            "question": "Is it dangerous?", 
+            "id": 33
+        }, 
+        {
+            "question": "Is it considered man's best friend?", 
+            "id": 34
+        }, 
+        {
+            "question": "Does it have paws?", 
+            "id": 35
+        }, 
+        {
+            "question": "Does it have claws?", 
+            "id": 36
+        }, 
+        {
+            "question": "Does it have a trunk?", 
+            "id": 37
+        }, 
+        {
+            "question": "Does it have a beak?", 
+            "id": 38
+        }, 
+        {
+            "question": "Does it have scales?", 
+            "id": 39
+        }, 
+        {
+            "question": "Can it fit in your car?", 
+            "id": 40
+        }, 
+        {
+            "question": "Can it fit in a backpack?", 
+            "id": 41
+        }, 
+        {
+            "question": "Can it climb a tree?", 
+            "id": 42
+        }, 
+        {
+            "question": "Does it have 9 lives?", 
+            "id": 43
+        }, 
+        {
+            "question": "Does it have 6 legs?", 
+            "id": 44
+        }, 
+        {
+            "question": "Does it have 8 legs?", 
+            "id": 45
+        }, 
+        {
+            "question": "Does it have hooves?", 
+            "id": 46
+        }, 
+        {
+            "question": "Can it be colorful?", 
+            "id": 47
+        }, 
+        {
+            "question": "Does it have a bill?", 
+            "id": 48
+        }, 
+        {
+            "question": "Can the animal smell blood?", 
+            "id": 49
+        }
+    ]
+}

@@ -1,0 +1,7423 @@
+{
+    "animals": [
+        {
+            "name": "Dog", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": true, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": true, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Cat", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": true, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Snake", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": false, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": true, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Parrot", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": true, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": true, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": true, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Elephant", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": true, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }, 
+                {
+                    "answer": false, 
+                    "id": 48
+                }
+            ]
+        }, 
+        {
+            "name": "Fish", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": false, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": true, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": true, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": true, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Monkey", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Lion", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": true, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Bear", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": true, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Mouse", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Whale", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": false, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": true, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }, 
+                {
+                    "answer": false, 
+                    "id": 49
+                }
+            ]
+        }, 
+        {
+            "name": "Cow", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Duck", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": true, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": true, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": true, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Spider", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": true, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": true, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Rabbit", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Wolf", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": true, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Turkey", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": true, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": true, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Pig", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Chicken", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": true, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": true, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Horse", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Giraffe", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Turtle", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": true, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Eagle", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": true, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": true, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Tiger", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": true, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }, 
+                {
+                    "answer": false, 
+                    "id": 48
+                }
+            ]
+        }, 
+        {
+            "name": "Ant", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": true, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": false, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": true, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Panda", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Squirrel", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": true, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Octopus", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": false, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": true, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": true, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Penguin", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": true, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": true, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": true, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Donkey", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Great White Shark", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": false, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": true, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": true, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Hamster", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": true, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": true, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Alligator", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": true, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": true, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": true, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": true, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Cricket", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": true, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": true, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": true, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Lizard", 
+            "answers": [
+                {
+                    "answer": true, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": true, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": true, 
+                    "id": 6
+                }, 
+                {
+                    "answer": true, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": false, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": true, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": false, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": false, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": false, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": true, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": true, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Zebra", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": true, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": true, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": true, 
+                    "id": 31
+                }, 
+                {
+                    "answer": false, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": false, 
+                    "id": 39
+                }, 
+                {
+                    "answer": false, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }, 
+                {
+                    "answer": false, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": true, 
+                    "id": 46
+                }, 
+                {
+                    "answer": false, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Butterfly", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 2
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": false, 
+                    "id": 5
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": false, 
+                    "id": 8
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }, 
+                {
+                    "answer": false, 
+                    "id": 11
+                }, 
+                {
+                    "answer": false, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 13
+                }, 
+                {
+                    "answer": false, 
+                    "id": 14
+                }, 
+                {
+                    "answer": true, 
+                    "id": 15
+                }, 
+                {
+                    "answer": false, 
+                    "id": 16
+                }, 
+                {
+                    "answer": false, 
+                    "id": 17
+                }, 
+                {
+                    "answer": true, 
+                    "id": 18
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 21
+                }, 
+                {
+                    "answer": false, 
+                    "id": 22
+                }, 
+                {
+                    "answer": true, 
+                    "id": 23
+                }, 
+                {
+                    "answer": false, 
+                    "id": 24
+                }, 
+                {
+                    "answer": false, 
+                    "id": 25
+                }, 
+                {
+                    "answer": false, 
+                    "id": 26
+                }, 
+                {
+                    "answer": false, 
+                    "id": 27
+                }, 
+                {
+                    "answer": false, 
+                    "id": 28
+                }, 
+                {
+                    "answer": false, 
+                    "id": 29
+                }, 
+                {
+                    "answer": false, 
+                    "id": 30
+                }, 
+                {
+                    "answer": false, 
+                    "id": 31
+                }, 
+                {
+                    "answer": true, 
+                    "id": 32
+                }, 
+                {
+                    "answer": false, 
+                    "id": 33
+                }, 
+                {
+                    "answer": false, 
+                    "id": 34
+                }, 
+                {
+                    "answer": false, 
+                    "id": 35
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": false, 
+                    "id": 37
+                }, 
+                {
+                    "answer": false, 
+                    "id": 38
+                }, 
+                {
+                    "answer": true, 
+                    "id": 39
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": true, 
+                    "id": 41
+                }, 
+                {
+                    "answer": false, 
+                    "id": 42
+                }, 
+                {
+                    "answer": false, 
+                    "id": 43
+                }, 
+                {
+                    "answer": true, 
+                    "id": 44
+                }, 
+                {
+                    "answer": false, 
+                    "id": 45
+                }, 
+                {
+                    "answer": false, 
+                    "id": 46
+                }, 
+                {
+                    "answer": true, 
+                    "id": 47
+                }
+            ]
+        }, 
+        {
+            "name": "Platypus", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": true, 
+                    "id": 36
+                }, 
+                {
+                    "answer": true, 
+                    "id": 1
+                }, 
+                {
+                    "answer": false, 
+                    "id": 6
+                }, 
+                {
+                    "answer": false, 
+                    "id": 15
+                }, 
+                {
+                    "answer": true, 
+                    "id": 48
+                }, 
+                {
+                    "answer": true, 
+                    "id": 40
+                }, 
+                {
+                    "answer": false, 
+                    "id": 7
+                }, 
+                {
+                    "answer": true, 
+                    "id": 3
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 4
+                }, 
+                {
+                    "answer": true, 
+                    "id": 10
+                }
+            ]
+        }, 
+        {
+            "name": "Shark", 
+            "answers": [
+                {
+                    "answer": false, 
+                    "id": 0
+                }, 
+                {
+                    "answer": false, 
+                    "id": 13
+                }, 
+                {
+                    "answer": true, 
+                    "id": 20
+                }, 
+                {
+                    "answer": true, 
+                    "id": 12
+                }, 
+                {
+                    "answer": true, 
+                    "id": 9
+                }, 
+                {
+                    "answer": false, 
+                    "id": 1
+                }, 
+                {
+                    "answer": true, 
+                    "id": 49
+                }, 
+                {
+                    "answer": false, 
+                    "id": 36
+                }, 
+                {
+                    "answer": true, 
+                    "id": 19
+                }, 
+                {
+                    "answer": false, 
+                    "id": 3
+                }
+            ]
+        }
+    ]
+}
